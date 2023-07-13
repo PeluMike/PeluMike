@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pelumi Olufemi
-- 👀 I’m a fullstack web developer
+- 👀 I’m a fullstack software developer
 - 🌱 I’m currently learning alot of things :), learning is my hubby, 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: You can message me directly here
