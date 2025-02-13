@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pelumi Olufemi
+- 👋 Hi, I’m Pelumi Michael
 - 👀 I’m a fullstack software developer
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: You can message me directly here
